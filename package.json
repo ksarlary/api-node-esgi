@@ -1,0 +1,25 @@
+{
+  "name": "tp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksarlary/api-node-esgi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksarlary/api-node-esgi/issues"
+  },
+  "homepage": "https://github.com/ksarlary/api-node-esgi#readme",
+  "description": "",
+  "devDependencies": {
+    "@types/express": "^5.0.1",
+    "express": "^4.21.2",
+    "ts-node": "^10.9.2"
+  }
+}
