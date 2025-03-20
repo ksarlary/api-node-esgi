@@ -27,6 +27,7 @@
   "dependencies": {
     "joi": "^17.13.3",
     "pg": "^8.14.1",
+    "tp": "file:",
     "typeorm": "^0.3.21"
   }
 }

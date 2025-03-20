@@ -5,7 +5,7 @@ export const GetProductValidation = Joi.object<ProductId>({
 })
 
 export const GetProductPriceValidation = Joi.object<ProductPriceLimit>({
-    priceLimit: Joi.number().required
+    priceLimit: Joi.number().required()
 })
 
 export interface ProductPriceLimit{
